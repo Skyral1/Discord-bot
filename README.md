@@ -35,6 +35,6 @@ Tout ce qu'il vous reste à faire c'est de remplacer le contenu du package.json 
 
 ----
 
-![Discord$(https://i.discord.fr/PSS.png)
+![Discord](https://i.discord.fr/PSS.png)
 
 Pour plus d'infos ou une demande de support rendez-vous sur le [serveur discord de support](https://discord.gg/pZZRdMJvpN)
