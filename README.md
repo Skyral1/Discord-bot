@@ -1,6 +1,6 @@
 # Discord-bot
 
-#titre Template de bot discord
+#titreTemplate de bot discord
 
 Pour pouvoir l'utiliser, il faut installer plusieurs plugins (pour éviter les erreurs, utilisez les mêmes versions que moi):
   dayjs@1.10.7
