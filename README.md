@@ -32,5 +32,3 @@ Tout ce qu'il vous reste à faire c'est de remplacer le contenu du package.json 
   }
 }
 ```
-
-[Simplonline](http://www.simplonline.com)
