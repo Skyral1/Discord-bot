@@ -32,3 +32,7 @@ Tout ce qu'il vous reste à faire c'est de remplacer le contenu du package.json 
   }
 }
 ```
+
+----
+
+Pour plus d'infos ou une demande de support rendez-vous sur le [serveur discord de support](https://discord.gg/pZZRdMJvpN)
