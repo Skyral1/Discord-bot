@@ -1,3 +1,6 @@
 # Discord-bot
 
-Template for discord bot
+Template de bot discord
+
+Pour pouvoir l'utiliser, il faut installer plusieurs plugins:
+  
