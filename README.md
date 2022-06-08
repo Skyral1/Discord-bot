@@ -16,7 +16,7 @@ npm i dayjs@1.10.7 discord.js@13.6.0 dotenv@16.0.0 glob@7.2.0 moment@2.29.3 mong
 
 Cela téléchargera toutes les dépendances d'un seul coup.
 
-Tout ce qu'il vous reste à faire c'est de remplacer le contenu du package.json par ceci:
+Tout ce qu'il vous reste à faire c'est de remplacer le contenu du [package.json](package.json) par ceci:
 ```
   {
   "dependencies": {
